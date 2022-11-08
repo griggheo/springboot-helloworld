@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./mvnw compile jib:buildTar
+mvn compile jib:buildTar
