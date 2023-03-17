@@ -15,7 +15,7 @@ limitations under the License.
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>springboot-helloworld</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3/version>
   <packaging>jar</packaging>
 
   <!--  The parent pom defines common style checks and testing strategies for our samples.
